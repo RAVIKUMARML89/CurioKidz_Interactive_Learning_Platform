@@ -1,2 +1,4 @@
 # CurioKidz_Interactive_Learning_Platform
 CurioKidz : An AI-Powered Interactive Learning Platform - MTech Project
+
+CurioKids aims to directly address the challenges of limited multi-sensory engagement and inefficient content creation by leveraging generative AI. By seamlessly integrating Text-to-Speech (TTS) and Text-to-Image (TTI) technologies, the platform will automatically generate contextually relevant, emotionally expressive audio and vibrant visual illustrations for every line of stories and rhymes. This innovative approach ensures a truly personalized learning journey that adapts to each child's pace and preferences, The platform will feature a touch-friendly audio-visual player interface, even on low-end mobile devices and with intermittent internet connectivity, fostering a joyful and enriching educational experience for every child.
